@@ -10,7 +10,7 @@
 -------------------------------------------------------------------------
 
 The Shared Pickups component will allow you to place pickups in your game that can be picked up by all players.
-Instead of pickups becoming a race to who can get them first, every player will have a chance to collec the
+Instead of pickups becoming a race to who can get them first, every player will have a chance to collect the
 pickup.
 
 This component makes use of the dormancy feature so that it can still be networked, but not replicate.
@@ -52,6 +52,6 @@ The resource key to use when giving the resource to the player.
 
 - ResourceAmount
 
-The amount of resource to give on pickup.
+The amount of resources to give on pickup.
 
 --]]
